@@ -4,7 +4,7 @@ int Main() {
     printf("Hello %d\n",i);
 }
 ***END***
-Add.c
+Add.ccc
 int Main() {
   for (int i=0; i<10; i++)
     sum += i;
